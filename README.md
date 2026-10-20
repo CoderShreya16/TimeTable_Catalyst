@@ -1,4 +1,4 @@
-# Catalyst — Intelligent Timetable Generation and Synchronization Platform
+# Catalyst — Smart University Timetable System
 
 A desktop application that **automatically generates clash-free college timetables** and keeps them **in sync** when a change is requested, so a modification never forces a full manual recheck.
 
@@ -72,7 +72,7 @@ validated against the same booking data and applied or rejected
 | GUI | Qt (Qt Widgets) |
 | Database | MySQL 8.0 |
 | DB access from C++ | Qt SQL module (`QSqlDatabase`, `QSqlQuery`, `QMYSQL` driver) |
-| Build system | CMake |QMake
+| Build system | CMake |QMake|
 | Version control | Git / GitHub |
 
 The whole project is written in C++. There is no web frontend or Node.js backend.
